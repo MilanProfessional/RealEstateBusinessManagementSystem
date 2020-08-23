@@ -1,0 +1,18 @@
+.footer{
+	background:#333333;
+	z-index:100;
+	position:relative;
+}
+.footer p{
+	padding:20px 0px;
+	color:#fff;
+}
+.footer p a{
+	color:#70c92f;
+	font-family: 'open_sansbold';
+}
+.footer p i{
+	color:red;
+	font-size:16px;
+	padding:0px 10px;
+}
